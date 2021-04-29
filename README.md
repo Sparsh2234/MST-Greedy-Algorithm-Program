@@ -1,2 +1,2 @@
 # MST-Greedy-Algorithm-Program
-Implemented MST (Minimum Spanning Tree) for a weighted, undirected graph using Prim’s algorithm. The program uses an 'adjacency list' and 'edge matrix' to support various commands and manipulations. These include: calculating MST value, finding the degree of a vertex, inserting/deleting edges, etc.
+Implemented MST (Minimum Spanning Tree) for a weighted, undirected graph using Prim’s algorithm. The program uses an 'adjacency list' and 'edge matrix' to support various commands and manipulations. These include: calculating MST value, finding the degree of a vertex, inserting/deleting edges, etc. The program uses a minimum heap data structure to order edges based on lowest weight. 
